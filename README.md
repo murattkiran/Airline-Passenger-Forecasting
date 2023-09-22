@@ -40,3 +40,8 @@
 - **Definition**: The Seasonal AutoRegressive Integrated Moving Average model extends ARIMA by adding seasonal components. It is used to predict seasonal patterns in time series data.
 - **Features**: Includes both seasonal and stationary components.
 
+These models are used to address different structures and patterns in time series data. To emphasize their practical application, we have implemented these methods in a real-world case study for airline passenger forecasting.
+
+## Airline Passenger Forecasting Case Study
+
+In this project, the above-mentioned time series forecasting methods were applied to predict future airline passenger numbers based on historical data. The power of these models was leveraged to make accurate predictions and gain insights into passenger trends.
