@@ -1,7 +1,5 @@
 # Statistical Time Series Models
 
-This README file provides an overview of some fundamental statistical models used in time series analysis. These models are used to analyze time series data, make forecasts, and predict the future.
-
 ## 1. SES (Simple Exponential Smoothing)
 
 - **Definition**: Simple Exponential Smoothing is a method that uses a basic exponentially weighted moving average. It relies only on current values and adjusts its weights based on the data.
